@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@types/node": "^20.14.12",
+    "dotenv": "16.4.5",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "grammy": "^1.27.0"
+  }
+}
